@@ -3,7 +3,7 @@
 
 ### Descripción
 
-** Un Modelo Computacional **
+**Un Modelo Computacional**
 
 AL mezclar dos fluidos de distinta densidad ocurre que el más denso se deposita en el fondo de un recicipiente, mientras que el más ligeros se queda en la superficie. Aplicando calor se genera una dinámica en la que algunas "celdas" del líquido más denso se dilatan y comienzan a subir a la superficie, desplazando a "celdas" de liquido más liviano que está frío y, por tanto, relativamente más pesado que las celdas calientes. Se han propuesto usar las siguientes reglas:
 1. Suponer que las celdas pasan por dos estados:
